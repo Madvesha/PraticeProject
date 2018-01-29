@@ -1,3 +1,0 @@
-I am editing file2.txt branch future/login 
-
-I am commitng in future/login
