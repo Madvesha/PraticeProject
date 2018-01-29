@@ -1,6 +1,5 @@
-File name is  newfile1.txt
+
+
+File name is  file:n
 
 This is comminting under branch branch1
-
-
-This is updating under branch branch2
