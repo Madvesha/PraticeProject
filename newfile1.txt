@@ -1,0 +1,6 @@
+File name is  newfile1.txt
+
+This is comminting under branch branch1
+
+
+This is updating under branch branch2
