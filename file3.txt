@@ -1,0 +1,3 @@
+I am editing file file3.txt under branch future/login
+
+I am commitng file now 
