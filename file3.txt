@@ -1,3 +1,8 @@
 I am editing file file3.txt under branch future/login
 
 I am commitng file now 
+
+
+I am editing file file3.txt under branch future/changepassword
+
+I am commitng file 2nd time 
